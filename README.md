@@ -91,45 +91,13 @@ python manage.py runserver
 ```
 CollegeManagement-Django/
 ├── college_management_system/   # Django project settings
-│   ├── __init__.py
-│   ├── wsgi.py
-│   ├── urls.py
-│   ├── settings.py
-│   ├── asgi.py
-├── main_app/                    # Main application logic
-│   ├── __init__.py
-│   ├── views.py
-│   ├── urls.py
-│   ├── tests.py
-│   ├── student_views.py
-│   ├── staff_views.py
-│   ├── models.py
-│   ├── middleware.py
-│   ├── hod_views.py
-│   ├── forms.py
-│   ├── EmailBackend.py
-│   ├── EditResultView.py
-│   ├── apps.py
-│   ├── admin.py
-│   ├── migrations/
-│   ├── static/
-│   └── templates/
+├── main_app/                    # Main app logic, templates, static
 ├── media/                       # Uploaded media files
 ├── requirements.txt             # Python dependencies
 ├── manage.py                    # Django management script
 ├── Procfile                     # Deployment process file
 ├── LICENSE                      # Project license
-Materials/                       # Project documents, images, and resources
-│   ├── Multi_modal_Hate_Speech_Detection_Using_Machine_Learning (1).pdf
-│   ├── rosp.docx
-│   ├── activity.jpg
-│   ├── block.jpg
-│   ├── proposed.jpg
-│   ├── gantt.jpg
-│   ├── class.jpg
-│   ├── wbs.jpg
-│   ├── flow.jpg
-│   └── System.jpg
+Materials/                       # Project docs, images, and resources
 ```
 
 ## 📂 Materials Folder
